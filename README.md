@@ -1,11 +1,12 @@
-<div align="center">
+# Workshop Drawing Board
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+## Features
+-   **Interactive Canvas**: Draw, write, and organize ideas.
+-   **Sticky Notes**: The backbone of every workshop.
+-   **Workshop Templates**: SWOT, 2x2 Matrix, Empathy Maps at your fingertips.
+-   **AI Brainstorming**: Ask Gemini to analyze your board or generate new ideas based on your workshop topic.
+-   **Export**: Save your workshop results as high-quality images.
 
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Development
+1. `npm install`
+2. `npm run dev` (Runs backend + frontend)

@@ -1,0 +1,6 @@
+{
+  "name": "Smart Workshop Studio",
+  "description": "A creative workspace for corporate trainers to run workshops with real-time sketching, sticky notes, and AI-powered brainstorming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
